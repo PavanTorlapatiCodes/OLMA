@@ -1,0 +1,4 @@
+1. Python
+2. Ollama
+3. Required Python packages
+4. Gemma 3 model
